@@ -2,6 +2,7 @@ Deep Learning w/ Python, Francois Chollet
 
 Start date: 2021/6/2
 Status: updating
+Alias: dlp_fc
 
 Chapter1: What is deep learning
 Chapter2: Mathematical building blocks of neural network
